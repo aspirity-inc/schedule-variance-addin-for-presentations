@@ -9,6 +9,13 @@ Current presentation progress (Schedule Variance) calculates using this formula:
 ## Compatibility   
 Microsoft Office Power Point 2013 - 2016  
 
+## Quick start  
+Download existed installer [here](https://langprism.bitrix24.ru/~9kHUt) or go throughout these steps:  
+* Clone repository (or download as zip)  
+* Try application in debug mode  
+* Create Sign certificate for deploy application (additional information [here](https://msdn.microsoft.com/en-us/library/che5h906.aspx))  
+* Publish application  
+
 ## Credits
 This project is owned and maintained by [Aspirity, Ltd](http://aspirity.com).
 
